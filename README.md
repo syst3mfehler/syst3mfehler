@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔥 **Frontend Development** & building **custom FiveM UIs**  
-- 🎨 Love creating **smooth, minimal, player-friendly interfaces**  
+- 🔥 **Frontend Development** & building **custom FiveM UIs**   
 - ⚡ Experience with **HTML, CSS, JS, Lua & Figma**  
 - 🛠 Always exploring new ideas and tools to improve my workflow  
 
