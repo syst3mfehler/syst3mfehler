@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔥 Passion for **Frontend Development** & building **custom FiveM UIs**  
+- 🔥 **Frontend Development** & building **custom FiveM UIs**  
 - 🎨 Love creating **smooth, minimal, player-friendly interfaces**  
 - ⚡ Experience with **HTML, CSS, JS, Lua & Figma**  
 - 🛠 Always exploring new ideas and tools to improve my workflow  
@@ -24,9 +24,9 @@
 ---
 
 ## 📂 Projects
-🔹 FiveM Interfaces (HUDs, Menus, Dashboards)  
+🔹 FiveM Interfaces  
 🔹 Lua Scripting for custom game mechanics  
-🔹 Frontend mini-projects & UI experiments  
+🔹 Frontend & UI experiments  
 
 ---
 
@@ -39,7 +39,6 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **syst3mfehler@gmail.com**  
 - 💬 Discord: **syst3mfehler**  
 - 🌍 GitHub: [syst3mfehler](https://github.com/syst3mfehler)  
 
