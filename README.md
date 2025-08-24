@@ -1,6 +1,6 @@
 # Hey, I'm syst3mfehler (ayko)
 
-### FiveM Frontend Developer • UI/UX Designer • Lua Enthusiast  
+### 15 y/o Frontend Developer 
 
 I create **UIs for German FiveM servers** and work with **frontend technologies** to bring ideas to life.  
 From clean web apps to custom FiveM interfaces – I love building smooth, player-friendly experiences.  
