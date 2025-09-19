@@ -6,7 +6,9 @@ description 'Custom admin menu UI matching screenshot'
 version '1.0.0'
 
 -- Pure Lua resource (no NUI)
-files {}
+files {
+  'banner.png'
+}
 
 client_scripts {
   'client.lua'
