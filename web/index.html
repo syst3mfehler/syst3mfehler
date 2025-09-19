@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PHX Menu</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="root" class="hidden">
+    <div class="hud-left">
+      <div class="panel panel-keys">
+        <div class="panel-title">Keybinds</div>
+        <div class="key-list" id="keybinds"></div>
+      </div>
+      <div class="panel panel-spec">
+        <div class="panel-title">Spectators</div>
+        <div class="spec-list" id="spectators"></div>
+      </div>
+    </div>
+
+    <div class="menu">
+      <div class="menu-left">
+        <div class="sidebar">
+          <div class="sidebar-thumb" id="sidebarThumb"></div>
+        </div>
+      </div>
+
+      <div class="menu-right">
+        <div class="banner">
+          <img src="banner.png" alt="banner" />
+        </div>
+        <div class="tabs" id="tabs"></div>
+        <div class="buttons" id="buttons"></div>
+        <div class="footer">
+          <div class="beta">β BETA</div>
+          <div class="counter" id="counter">0/0</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bottom-desc" id="description"></div>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    window.addEventListener('message', (e) => {
+      const data = e.data || {};
+      if (data.type === 'toggle') {
+        document.getElementById('root').classList.toggle('hidden', !data.show);
+      }
+      if (data.type === 'state') {
+        window.phx.renderState(data.state);
+      }
+    });
+  </script>
+</body>
+</html>
+
