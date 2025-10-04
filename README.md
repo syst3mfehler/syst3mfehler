@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#f5426c">syst3mfehler</span></h1>
-<h3 align="center">🎨 FiveM Frontend Developer | 15 y/o Frontend Developert</h3>
+<h3 align="center">🎨 FiveM Frontend Developer | 15 y/o Frontend Developer</h3>
 
 ---
 
